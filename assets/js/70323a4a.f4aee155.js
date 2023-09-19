@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmrsharp_personal_site=self.webpackChunkmrsharp_personal_site||[]).push([[7957],{7051:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/mrsharp-portfolio-site/blog/tags/docusaurus","allTagsPath":"/mrsharp-portfolio-site/blog/tags","count":4}')}}]);

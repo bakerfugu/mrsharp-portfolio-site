@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmrsharp_personal_site=self.webpackChunkmrsharp_personal_site||[]).push([[3968],{3138:s=>{s.exports=JSON.parse('{"permalink":"/mrsharp-portfolio-site/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
